@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Get Days Ago Date">98921939dbd133006078196c299619ef</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Action Test Flow">209bc1f1dbd133006078196c299619eb</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>ahmed.ait.tarint</sys_created_by>
+        <sys_created_on>2019-05-09 10:44:35</sys_created_on>
+        <sys_id>ab845d79dbd133006078196c2996198e</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_325653_needit_sp">b6890db1dbd133006078196c299619cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">b6890db1dbd133006078196c299619cf</sys_scope>
+        <sys_update_name>sys_hub_action_instance_ab845d79dbd133006078196c2996198e</sys_update_name>
+        <sys_updated_by>ahmed.ait.tarint</sys_updated_by>
+        <sys_updated_on>2019-05-09 11:55:03</sys_updated_on>
+        <ui_id>7c0124d4-5d2a-4ea9-b333-218a8191afc5</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=ab845d79dbd133006078196c2996198e"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>ab845d79dbd133006078196c2996198e</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>ahmed.ait.tarint</sys_created_by>
+        <sys_created_on>2019-05-09 10:46:45</sys_created_on>
+        <sys_id>d305d1b9dbd133006078196c299619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>ahmed.ait.tarint</sys_updated_by>
+        <sys_updated_on>2019-05-09 10:46:45</sys_updated_on>
+        <value>12</value>
+        <variable display_value="">00e451b9dbd133006078196c29961939</variable>
+    </sys_variable_value>
+</record_update>
